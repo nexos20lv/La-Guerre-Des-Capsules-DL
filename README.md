@@ -1,9 +1,9 @@
 <div align="center">
-  ![LGDC DL Banner](https://capsule-render.vercel.app/api?type=waving&color=0:7b2cbf,100:c77dff&height=200&section=header&text=LGDC%20Download%20Server&fontSize=50&fontAlignY=40&animation=twinkling&desc=Serveur%20d&fontColor=ffffff)
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7b2cbf,100:c77dff&amp;height=200&amp;section=header&amp;text=LGDC%20Download%20Server&amp;fontSize=50&amp;fontAlignY=40&amp;animation=twinkling&amp;desc=Serveur%20d&amp;fontColor=ffffff" alt="LGDC DL Banner" />
 
   <p align="center">
-    ![CDN](https://img.shields.io/badge/Role-Resource_CDN-7b2cbf?style=for-the-badge)
-    ![JSON Manifest](https://img.shields.io/badge/Format-JSON_Manifest-007AFF?style=for-the-badge)
+    <img src="https://img.shields.io/badge/Role-Resource_CDN-7b2cbf?style=for-the-badge" alt="CDN" />
+    <img src="https://img.shields.io/badge/Format-JSON_Manifest-007AFF?style=for-the-badge" alt="JSON Manifest" />
   </p>
 
   <p align="center">
