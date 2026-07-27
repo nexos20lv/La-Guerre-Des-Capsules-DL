@@ -1,5 +1,5 @@
 <div align="center">
-  ![LGDC DL Banner](https://capsule-render.vercel.app/api?type=waving&color=0:7b2cbf,100:c77dff&height=200&section=header&text=LGDC%20Download%20Server&fontSize=50&fontAlignY=40&animation=twinkling&desc=Serveur%20d&fontColor=ffffff)
+  ![LGDC DL Banner](https://capsule-render.vercel.app/api?type=waving&color=0:7b2cbf,100:c77dff&height=200&section=header&text=LGDC%20Download%20Server&fontSize=50&fontAlignY=40&animation=twinkling&desc=Serveur%20d)
 
   <p align="center">
     ![CDN](https://img.shields.io/badge/Role-Resource_CDN-7b2cbf?style=for-the-badge)
