@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2cbf,100:c77dff&height=200&section=header&text=LGDC%20Download%20Server&fontSize=50&fontAlignY=40&animation=twinkling&desc=Serveur%20d'Assets%20%26%20Mises%20%C3%A0%20Jour&descAlignY=60&descAlign=50" alt="LGDC DL Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7b2cbf,100:c77dff&amp;height=200&amp;section=header&amp;text=LGDC%20Download%20Server&amp;fontSize=50&amp;fontAlignY=40&amp;animation=twinkling&amp;desc=Serveur%20d'Assets%20%26%20Mises%20%C3%A0%20Jour&amp;descAlignY=60&amp;descAlign=50" alt="LGDC DL Banner" />
 
   <p align="center">
     <img src="https://img.shields.io/badge/Role-Resource_CDN-7b2cbf?style=for-the-badge" alt="CDN">
